@@ -1,1 +1,1 @@
-# Rock-Paper-Siccor Game
+# Rock-Paper-Siccsor Game
